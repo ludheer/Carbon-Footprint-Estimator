@@ -35,6 +35,7 @@ To build a lightweight, functional regression model that predicts carbon emissio
 ## 📈 Model Performance
 
  Model    -           MSE          |-RMSE 
+
  Linear Regression  -  652,504.19    -  807.78   
  Random Forest       - 858,456.71     -926.53   
 
